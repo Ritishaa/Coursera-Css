@@ -1,0 +1,52 @@
+body {
+  font-size: 24px;
+  color: #fff;
+  background-color: #B67795;
+}
+
+#nav-header{
+	border-radius: 0;
+	border: 0;
+	background-color: #E6AFC9;
+}
+
+.navbar-brand h1{
+	margin: 0;
+	color: black;
+}
+
+#nav-list a{
+	text-align: center;
+	color: #F1D3E5;
+	background-color: black;
+
+}
+#nav-list a:hover{
+	background-color: grey;
+}
+.navbar-header button.navbar-toggle, .navbar-header .icon-bar{
+	border: 2px solid black ;
+}
+
+#main-content p{
+	position: relative;
+	text-align: justify;
+	margin: 5px auto;
+	background-color: #E6AFC9;
+	border-radius: 10px;
+	padding:1%;
+	color: #76636E;
+	padding-top: 10%;
+}
+
+#main-content div.s1{
+	position: absolute;
+	top: 0;
+	color: black;
+	padding: 2.5%;
+	text-align: center;
+	font-size: 1.2em;
+}
+.navbar-header button.navbar-toggle{
+	clear: both;
+}
